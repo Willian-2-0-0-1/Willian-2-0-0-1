@@ -1,4 +1,4 @@
-<h1 align="left">Seja Bem Vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu Sou Willian!| Bug Hunter && Pentester && Analista de CiberSegurança na HackerSec! </h1>
+<h1 align="left">Seja Bem Vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bug Hunter && Pentester && Analista de CiberSegurança na HackerSec! </h1>
 
 ##
 
