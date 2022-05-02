@@ -1,10 +1,5 @@
 <h1 align="left">Seja Bem Vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bug Hunter && Red Team && Analista de CiberSegurança na HackerSec! </h1>
 
-<h3>As 3 regras para se tornar um hacker!
-Nenhum sistema e seguro.
-Mire no impossível.
-Não Limite sua diversão no Mundo Virtual.</h3>
-
 ##
 
 <div align="center">
