@@ -31,4 +31,6 @@ E a internet é um universo de possibilidades infinitas. Quando estamos nela pre
   
   <div align="right">
   <img src="https://memeguy.com/photos/images/we-are-anonymous-84131.gif" width="100px">
+    
   </div>
+  
