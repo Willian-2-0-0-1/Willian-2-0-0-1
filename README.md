@@ -49,13 +49,6 @@ estudo sobre técnicas que precisei destrinchar a fundo.
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078d4?style=flat&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
 
-## Atividade
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Willian-2-0-0-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian-2-0-0-1&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Linguagens mais usadas">
-</div>
-
 ---
 
 <p align="center">
