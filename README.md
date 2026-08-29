@@ -26,7 +26,6 @@ identity security, security tooling, and AI-assisted developer workflows.
 |---|---|
 | [**OS Control MCP**](https://github.com/Willian-2-0-0-1/os-control-mcp) | An MCP server for persistent terminals, multi-chat isolation, guarded system control, process diagnostics, and bounded autonomous objectives |
 | [**scantrely**](https://github.com/Willian-2-0-0-1/scantrely) | External attack-surface management and security workflow automation |
-| [**flameshot-mcp**](https://github.com/Willian-2-0-0-1/flameshot-mcp) | An MCP server for screenshot capture and evidence annotation with privacy-aware redaction |
 | [**MinIO authorization research**](https://github.com/Willian-2-0-0-1/CVE-MinIO-IP-Spoofing) | Reproducible research into authorization policy behavior and source-IP controls |
 | [**SAS 9.4 XSS research**](https://github.com/Willian-2-0-0-1/SAS-9.4-ADM-XSS) | A documented stored-XSS proof-of-concept in an administrative workflow |
 | [**Vulnerable applications lab**](https://github.com/Willian-2-0-0-1/awesome-vulnerable-apps) | Curated targets for training, validation, and defensive testing |
